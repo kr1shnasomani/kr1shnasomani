@@ -55,6 +55,6 @@
 </div> 
 
 <p align="center"> 
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kr1shnasomani&theme=2077" height="300em"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kr1shnasomani&theme=github-compact" alt="Contribution Count"/>
 </p>
 </div>
