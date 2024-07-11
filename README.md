@@ -55,6 +55,6 @@
 </div>
 <div align="center">
   <a href="https://github.com/kr1shnasomani">
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kr1shnasomani&theme=2077" height="350em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kr1shnasomani&theme=2077" height="300em" />
   </a>
-</div>
+</div
