@@ -53,9 +53,6 @@
 </div>
 <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kr1shnasomani&&show_icons=true&theme=dark" height="160em" />
 </div>
-
-<br/>
-
 <p align="center" style="margin-top:30px;">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kr1shnasomani&theme=github-compact" alt="Contribution Count" />
 </p>
