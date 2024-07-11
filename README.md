@@ -59,4 +59,3 @@
 <p align="center" style="margin-top:30px;">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kr1shnasomani&theme=github-compact" alt="Contribution Count" />
 </p>
-
