@@ -58,3 +58,9 @@
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kr1shnasomani&theme=2077" height="300em" />
   </a>
 </div
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<p align="center"> 
+  <img align="center" src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="1444" height="486"/>
+</p>
