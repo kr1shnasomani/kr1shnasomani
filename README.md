@@ -9,27 +9,10 @@
 - 🤖 I'm intersted in Machine Learning, Artificial Intelligence and Data Science
 - 🌱 I’m currently learning Computer Vision and Natural Language Processing
 - 📫 How to reach me - **krishnasomani272005@gmail.com**
+- 🤝 Connect with me - **https://www.linkedin.com/in/kr1shnasomani/**
 - 📄 Know about my experiences - **drive.google.com**
 
 <div/> 
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div/> 
-<img align="right" src="https://github.com/Sukanyasingh3/Sukanyasingh3/blob/main/tenor.gif" width="300" height="200"/>
-  
-
-<div align="left">  
-<br/> 
-  
-🔭 I’m currently a 2nd year CSE student at SRM University
-  
-🤖 I'm intersted in Machine Learning and Data Science  
-  
-🤝 Ready to team up for projects :) 
-
-📫 How to reach me:  sukanyasingh303@gmail.com
- <div/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
