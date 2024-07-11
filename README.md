@@ -48,13 +48,13 @@
 
 # GitHub Stats:
 </h3> 
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kr1shnasomani&theme=dark&hide_border=false" height="190em" />
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kr1shnasomani&theme=dark&hide_border=false" height="150em" />
     </div>
-<img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kr1shnasomani&&show_icons=true&theme=dark" height="190em" /> 
+<img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kr1shnasomani&&show_icons=true&theme=dark" height="150em" /> 
 </div>
  
 <div align="center">
   <a href="https://github.com/kr1shnasomani">
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kr1shnasomani&theme=2077" height="200em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kr1shnasomani&theme=2077" height="500em" />
   </a>
 </div>
