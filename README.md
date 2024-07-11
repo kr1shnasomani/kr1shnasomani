@@ -1,5 +1,5 @@
 <p align="center"> 
-  <img align="center" src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" width="300" height="200"/>
+  <img align="center" src="https://github.com/kr1shnasomani/kr1shnasomani/blob/main/GIF.gif" width="722" height="406"/>
 </p>
 
   <h3 align="center">Visitor Counter </h3>
