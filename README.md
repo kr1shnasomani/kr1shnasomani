@@ -52,12 +52,9 @@
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kr1shnasomani&theme=dark&hide_border=false" height="160em" />
 </div>
 <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kr1shnasomani&&show_icons=true&theme=dark" height="160em" />
-</div>
-
-<br><br>
+</div> 
 
 <p align="center"> 
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=kr1shnasomani&theme=github-compact" alt="Contribution Count"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kr1shnasomani&theme=2077" height="300em"/>
 </p>
 </div>
-
