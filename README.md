@@ -1,4 +1,11 @@
-<h1 align="center">Hi 👋, I'm Krishna Somani</h1>
+<p align="center"> 
+  <img align="center" src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" width="300" height="200"/>
+</p>
+
+  <h3 align="center">Visitor Counter </h3>
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/kr1shnasomani/count.svg" />
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -14,13 +21,6 @@
 - 📄 Know about my experiences - **drive.google.com**
 
 <div/> 
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-  <h3 align="center">Visitor Counter </h3>
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/kr1shnasomani/count.svg" />
-</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
