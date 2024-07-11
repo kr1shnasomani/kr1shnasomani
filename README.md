@@ -53,8 +53,5 @@
 </div>
 <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kr1shnasomani&&show_icons=true&theme=dark" height="160em" /> 
 </div>
-<div align="center">
-  <a href="https://github.com/kr1shnasomani">
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kr1shnasomani&theme=2077" height="300em" />
-  </a>
+<p align="center" style="margin-top:30px;"><img src="https://github-readme-activity-graph.vercel.app/graph?username=kr1shnasomani&theme=github-compact" alt="Contribution Count" />
 </div
