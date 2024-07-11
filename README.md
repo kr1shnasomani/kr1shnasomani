@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Krishna Somani</h1>
 
+<div align="right">
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" align="center" style="width: 45%" />
+<div align="left">  
+<br/> 
 
 - 🔭 I’m currently a 2nd year CSE student at SRM University
 - 🤖 I'm intersted in Machine Learning, Artificial Intelligence and Data Science
@@ -7,54 +11,67 @@
 - 📫 How to reach me - **krishnasomani272005@gmail.com**
 - 📄 Know about my experiences - **drive.google.com**
 
+<div/> 
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div/> 
+<img align="right" src="https://github.com/Sukanyasingh3/Sukanyasingh3/blob/main/tenor.gif" width="300" height="200"/>
+  
+
+<div align="left">  
+<br/> 
+  
+🔭 I’m currently a 2nd year CSE student at SRM University
+  
+🤖 I'm intersted in Machine Learning and Data Science  
+  
+🤝 Ready to team up for projects :) 
+
+📫 How to reach me:  sukanyasingh303@gmail.com
+ <div/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
   <h3 align="center">Visitor Counter </h3>
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/kr1shnasomani/count.svg" />
 </p>
 
-</div><h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kr1shnasomani" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="kr1shnasomani" height="30" width="40" /></a><a href="https://discord.gg/kr1shnasomani" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/discord.svg" alt="kr1shnasomani" height="30" width="40" /></a><a href="https://instagram.com/kr1shnasomani" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="kr1shnasomani" height="30" width="40" /></a></p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h3 align="left">Skill Set:</h3>
+# My Skill Set:
+</h3>
 <p align="left">
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg" alt="CPP" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/figma-icon.svg" alt="Figma" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Testing/selenium-logo.svg" alt="Selenium" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/Scikit_learn_logo_small.svg" alt="Scikit" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/logo-mark-lightbg.svg" alt="SeaBorn" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/opencv-icon.svg" alt="Opencv" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/pytorch-icon.svg" alt="Pytorch" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/tensorflow-icon.svg" alt="Tensorflow" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg" alt="CPP" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="60" height="60"/>
+<a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="60" /></a>
+<a href="https://numpy.org/" target="_blank"><img style="margin: 10px" src="https://github.com/devicons/devicon/raw/master/icons/numpy/numpy-original.svg" alt="NumPy" height="60" /></a> 
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/figma-icon.svg" alt="Figma" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Testing/selenium-logo.svg" alt="Selenium" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/Scikit_learn_logo_small.svg" alt="Scikit" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/logo-mark-lightbg.svg" alt="SeaBorn" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/opencv-icon.svg" alt="Opencv" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/pandas-original.svg" alt="Pandas" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/pytorch-icon.svg" alt="Pytorch" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/tensorflow-icon.svg" alt="Tensorflow" width="60" height="60"/>
 </p>
 
-<h3 align="left">Stars</h3>
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kr1shnasomani&layout=compact&theme=" alt=kr1shnasomani />
-
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=kr1shnasomani&show_icons=true&locale=en&theme=" alt="kr1shnasomani" /></p>
-
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kr1shnasomani&theme=" alt="kr1shnasomani" /></p>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h3 align="center">Statistics</h3>
+
+# GitHub Stats:
+</h3> 
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kr1shnasomani&theme=dark&hide_border=false" height="190em" />
+    </div>
+<img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kr1shnasomani&&show_icons=true&theme=dark" height="190em" /> 
+</div>
+ 
 <div align="center">
   <a href="https://github.com/kr1shnasomani">
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kr1shnasomani&theme=2077" height="180em" />
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kr1shnasomani&theme=2077" height="180em" />
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kr1shnasomani&theme=2077" height="180em" />
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kr1shnasomani&theme=2077" height="180em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kr1shnasomani&theme=2077" height="200em" />
   </a>
 </div>
-<div align="center">
-  <a href="https://github.com/kr1shnasomani">
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kr1shnasomani&theme=2077" height="180em" />
-  </a>
-</div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=kr1shnasomani&theme=default"/>
