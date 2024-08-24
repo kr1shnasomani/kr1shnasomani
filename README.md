@@ -14,7 +14,7 @@
 <br/> 
 
 - 🔭 I’m currently a 2nd year CSE student at SRM University
-- 🤖 I'm intersted in Machine Learning, Artificial Intelligence and Data Science
+- 🤖 I'm intersted in AI/ML and Data Science
 - 🌱 I’m currently learning Computer Vision and Natural Language Processing
 - 📫 How to reach me - **krishnasomani272005@gmail.com**
 - 🤝 Connect with me - **https://www.linkedin.com/in/kr1shnasomani/**
