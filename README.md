@@ -18,7 +18,7 @@
 - 🌱 I’m currently learning Computer Vision and NLP
 - 📫 How to reach me - **krishnasomani272005@gmail.com**
 - 🤝 Connect with me - **https://www.linkedin.com/in/kr1shnasomani/**
-- 📄 Know about my experiences - **drive.google.com/file/d/18RZcaxDBX8RV87CCPjsIjtUj3ObDauj0/view**
+- 📄 My experiences - **https://drive.google.com/file/d/18RZcaxDBX8RV87CCPjsIjtUj3ObDauj0/view**
 
 <div/> 
 
