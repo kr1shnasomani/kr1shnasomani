@@ -59,4 +59,4 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kr1shnasomani&theme=github-compact" alt="Contribution Count" />
 </p>
 
-<img src="https://github.com/kr1shnasomani/kr1shnasomani/blob/1af11e5ab03de95fe064377b3e04c63294b6f080/2.gif" height="200"/>
+<img src="https://github.com/kr1shnasomani/kr1shnasomani/blob/9df64164ac6563533e624b41eef0ce72f02f8a16/GIF2.gif" height="200"/>
