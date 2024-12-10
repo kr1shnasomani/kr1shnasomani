@@ -51,8 +51,8 @@
 
 # GitHub Stats:
 <h3>
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kr1shnasomani&theme=dark&hide_border=false" height="160em" />
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kr1shnasomani&&show_icons=true&theme=dark" height="160em" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kr1shnasomani&theme=dark&hide_border=false" height="160em" />
+<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kr1shnasomani&&show_icons=true&theme=dark" height="160em" />
 <br><br>
 
 <p align="center" style="margin-top:30px;">
