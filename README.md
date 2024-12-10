@@ -53,8 +53,11 @@
 <h3>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kr1shnasomani&theme=dark&hide_border=false" height="173em" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kr1shnasomani&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="173em" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kr1shnasomani&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="100em" />
 <br><br>
+
+<p align="center" style="margin-top:30px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kr1shnasomani&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="100em" />
+</p>
 
 <p align="center" style="margin-top:30px;">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kr1shnasomani&theme=github-compact" alt="Contribution Count" />
