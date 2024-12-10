@@ -7,10 +7,6 @@
   <img src="https://profile-counter.glitch.me/kr1shnasomani/count.svg" />
 </p>
 
-<p align="center">
-  <img src="https://widgetbite.com/stats/kr1shnasomani" alt="watching_count" />
-</p>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="355" height="200"/>
