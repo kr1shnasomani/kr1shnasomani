@@ -1,5 +1,5 @@
 <p align="center"> 
-  <img align="center" src="https://github.com/kr1shnasomani/kr1shnasomani/blob/main/GIF.gif" width="722" height="406"/>
+  <img align="center" src="https://github.com/kr1shnasomani/kr1shnasomani/blob/1ff733f732cabd208babf3fd59a5817b6b2c1172/GIF1.gif" width="722" height="406"/>
 </p>
 
   <h3 align="center">Visitor Counter </h3>
