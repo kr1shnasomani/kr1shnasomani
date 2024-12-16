@@ -16,6 +16,8 @@
 - 🔭 I’m currently a 2nd year CSE student at SRM University
   
 - 🤖 I'm intersted in AI/ML and Data Science
+
+- 🌱 I'm currently working on CV & DL related projects
   
 - 📫 How to reach me - **krishnasomani272005@gmail.com**
   
