@@ -13,7 +13,7 @@
 <img align="right" src="https://github.com/kr1shnasomani/kr1shnasomani/blob/75ee72bac5b4ef8c4de1127e730fa867badac9f2/GIF3.gif" width="355" height="200"/>
 <div align="left">  
 
-- 🔭 I’m currently a 2nd year CSE student at SRM University
+- 🔭 I’m a 2nd year CSE student at SRM University, Kattankulathur
   
 - 🤖 I'm intersted in AI/ML and Data Science
 
