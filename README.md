@@ -51,6 +51,26 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+# Open Source Projects:
+| S. No. | Title | Machine Learning | Technologies |
+|--------|-------|------------------|--------------|
+| 1 | [Vehicle Speed Detection](https://github.com/kr1shnasomani/Vehicle-Speed-Detection) | Computer Vision | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv) |
+| 2 | [Bone Fracture Detection](https://github.com/kr1shnasomani/Bone-Fracture-Detection) | |
+| 3 | [Speech Emotion Recognition](https://github.com/kr1shnasomani/Speech-Emotion-Recognition) | |
+| 4 | [Facial Emotion Recognition](https://github.com/kr1shnasomani/Facial-Emotion-Recognition) | |
+| 5 | [Fire Detection System](https://github.com/kr1shnasomani/Fire-Detection-System) | |
+| 6 | [COVID-19 X-Ray Chest Detection](https://github.com/kr1shnasomani/COVID-19-Chest-X-Ray-Detection) | |
+| 7 | [Movie Recommendation System](https://github.com/kr1shnasomani/Movie-Recommendation-System) | |
+| 8 | [Plant Disease Detection](https://github.com/kr1shnasomani/Plant-Disease-Detection) | |
+| 9 | [Sentimental Analysis on Movie Reviews](https://github.com/kr1shnasomani/Sentiment-Analysis-on-Movie-Reviews) | |
+| 10 | [Pedestrian and Vehicle Detection](https://github.com/kr1shnasomani/Pedestrian-and-Vehicle-Detection) | |
+| 11 | [Stock Price Predictor](https://github.com/kr1shnasomani/Stock-Price-Predictor) | |
+| 12 | [Text Extractor from Image](https://github.com/kr1shnasomani/Text-Extractor-from-Image) | |
+| 13 | [Web Scraper](https://github.com/kr1shnasomani/Web-Scraper) | |
+| 14 | [Text Summarization](https://github.com/kr1shnasomani/Text-Summarization) | |
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 # GitHub Stats:
 <h3>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kr1shnasomani&theme=dark&hide_border=false" height="173em" />
