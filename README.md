@@ -9,7 +9,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# About Me:
+# 🙋‍♂️ About Me:
 <img align="right" src="https://github.com/kr1shnasomani/kr1shnasomani/blob/75ee72bac5b4ef8c4de1127e730fa867badac9f2/GIF3.gif" width="355" height="200"/>
 <div align="left">  
 
@@ -27,7 +27,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# My Skill Set:
+# 🛠️ My Skill Set:
 </h3>
 <p align="center">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="60" height="60"/>
@@ -52,7 +52,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# Open Source Projects:
+# 📂 Open Source Projects:
 | S. No. | Title | Machine Learning | Library |
 |--------|-------|------------------|---------|
 | 1 | [Vehicle Speed Detection](https://github.com/kr1shnasomani/Vehicle-Speed-Detection) | `Deep Learning` `Neural Network` `Computer Vision` | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv) |
@@ -71,7 +71,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# GitHub Stats:
+# 📈 GitHub Stats:
 <h3>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kr1shnasomani&theme=dark&hide_border=false" height="173em" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kr1shnasomani&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="173em" />
