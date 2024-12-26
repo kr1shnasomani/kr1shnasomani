@@ -79,7 +79,6 @@
 <h3>
   
 ![kr1shnasomani's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kr1shnasomani&theme=onedark&hide_border=true)
-  
 ![kr1shnasomani's Stats](https://github-readme-stats.vercel.app/api?username=kr1shnasomani&theme=onedark&show_icons=true&hide_border=true&count_private=true)
 <br><br>
 
