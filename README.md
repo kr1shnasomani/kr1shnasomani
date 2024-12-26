@@ -77,8 +77,8 @@
 
 # 📈 GitHub Stats:
 <h3>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kr1shnasomani&theme=dark&hide_border=false" height="173em" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=kr1shnasomani&theme=dark&show_icons=true&hide_border=false&count_private=true" height="173em" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kr1shnasomani&theme=dark&hide_border=false" height="171em" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=kr1shnasomani&theme=dark&show_icons=true&hide_border=false&count_private=true" height="171em" />
 <br><br>
 
 <p align="center" style="margin-top:30px;">
