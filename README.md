@@ -77,8 +77,8 @@
 
 # 📈 GitHub Stats:
 <h3>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kr1shnasomani&theme=dark&hide_border=false" height="173em" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=kr1shnasomani&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="173em" />
+![kr1shnasomani's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kr1shnasomani&theme=onedark&hide_border=true)
+![kr1shnasomani's Stats](https://github-readme-stats.vercel.app/api?username=kr1shnasomani&theme=onedark&show_icons=true&hide_border=true&count_private=true)
 <br><br>
 
 <p align="center" style="margin-top:30px;">
