@@ -74,7 +74,8 @@
 | 17. | [SkySight](https://github.com/kr1shnasomani/SkySight) | `Deep Learning` `Neural Network` `Computer Vision` | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv) |
 | 18. | [CrowdMap](https://github.com/kr1shnasomani/CrowdMap) | `Computer Vision` | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) ![SciPy](https://img.shields.io/badge/SciPy-black?style=flat-square&logo=scipy) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv) |
 | 19. | [SmartScan](https://github.com/kr1shnasomani/SmartScan) | `Computer Vision` | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv) ![PyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi) |
-| 20. | []() |  |   |
+| 20. | [ColourFusion](https://github.com/kr1shnasomani/ColourFusion) | `Deep Learning` `Neural Network` | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv) ![PyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi) |
+| 21. | []() |  |  |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
