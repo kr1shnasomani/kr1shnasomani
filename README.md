@@ -75,7 +75,8 @@
 | 18. | [SkySight](https://github.com/kr1shnasomani/SkySight) | `Deep Learning` `Neural Network` `Computer Vision` | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv) |
 | 19. | [CrowdMap](https://github.com/kr1shnasomani/CrowdMap) | `Computer Vision` | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) ![SciPy](https://img.shields.io/badge/SciPy-black?style=flat-square&logo=scipy) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv) |
 | 20. | [SmartScan](https://github.com/kr1shnasomani/SmartScan) | `Computer Vision` | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv) ![PyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi) |
-| 21. | []() |  |  |
+| 21. | [FontFinder](https://github.com/kr1shnasomani/FontFinder) | `Deep Learning` `Neural Network` `Computer Vision` | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) ![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=flat-square&logo=tensorflow) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv) ![PyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi) |
+| 22. | [MotionMuse](https://github.com/kr1shnasomani/MotionMuse) | `Deep Learning` `Neural Network` `Computer Vision` | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv) ![PyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi) |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
