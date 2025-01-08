@@ -77,9 +77,9 @@
 | 20. | [SmartScan](https://github.com/kr1shnasomani/SmartScan) | `Computer Vision` | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv) ![PyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi) |
 | 21. | [FontFinder](https://github.com/kr1shnasomani/FontFinder) | `Deep Learning` `Neural Network` `Computer Vision` | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) ![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=flat-square&logo=tensorflow) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv) ![PyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi) |
 | 22. | [MotionMuse](https://github.com/kr1shnasomani/MotionMuse) | `Deep Learning` `Neural Network` `Computer Vision` | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv) ![PyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi) |
-| 23. | [ColourPulse](https://github.com/kr1shnasomani/ColourPulse) |  |  |
-| 24. | [DeepDepth](https://github.com/kr1shnasomani/DeepDepth) |  |  |
-| 25. | []() |  |  |
+| 23. | [ColourPulse](https://github.com/kr1shnasomani/ColourPulse) | `Deep Learning` `Neural Network` `Computer Vision` | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv) |
+| 24. | [DeepDepth](https://github.com/kr1shnasomani/DeepDepth) | `Deep Learning` `Neural Network` `Computer Vision` | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv) |
+| 25. | [WebScrub](https://github.com/kr1shnasomani/WebScrub) |  |  |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
