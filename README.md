@@ -81,6 +81,8 @@
 | 24. | [DeepDepth](https://github.com/kr1shnasomani/DeepDepth) | `Deep Learning` `Neural Network` `Computer Vision` | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv) |
 | 25. | [WebScrub](https://github.com/kr1shnasomani/WebScrub) | `Natural Language Processing` | ![scikit-learn](https://img.shields.io/badge/scikit--learn-black?style=flat-square&logo=scikit-learn) ![spaCy](https://img.shields.io/badge/spaCy-black?style=flat-square&logo=spacy) ![Selenium](https://img.shields.io/badge/Selenium-black?style=flat-square&logo=selenium) ![PyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi) |
 | 26. | [GenAgeNet](https://github.com/kr1shnasomani/GenAgeNet) | `Deep Learning` `Neural Network` `Computer Vision` | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv) |
+| 27. | [Maskify]() | `Deep Learning` `Neural Network` `Computer Vision` | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) ![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=flat-square&logo=tensorflow) ![Keras](https://img.shields.io/badge/Keras-black?style=flat-square&logo=keras) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv) |
+| 28. | [FaceCapture]() | `Computer Vision` | ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv) |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
