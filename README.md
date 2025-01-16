@@ -51,6 +51,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="60" height="60"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/Scikit_learn_logo_small.svg" alt="scikit-learn" width="60" height="60"/>
 <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Transformers" width="60" height="60" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/PyPI-Logo-notext.svg/546px-PyPI-Logo-notext.svg.png" alt="GitHub" width="60" height="60" />
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/figma-icon.svg" alt="Figma" width="60" height="60"/>
 <img src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-512.png" alt="Git" width="60" height="60" />
 <img src="https://cdn.icon-icons.com/icons2/3685/PNG/512/github_logo_icon_229278.png" alt="GitHub" width="60" height="60" />
