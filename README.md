@@ -40,10 +40,10 @@
 <img src="https://github.com/devicons/devicon/raw/master/icons/numpy/numpy-original.svg" alt="NumPy" width="60" height="60" />
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/pandas-original.svg" alt="pandas" width="60" height="60"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" alt="SciPy" width="60" height="60" />
-<img src="https://cdn-avatars.huggingface.co/v1/production/uploads/1621946385351-60acee08af553873e6d96d0c.png" alt="spaCy" width="60" height="60" />
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/pytorch-icon.svg" alt="Pytorch" width="60" height="60"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/tensorflow-icon.svg" alt="Tensorflow" width="60" height="60"/>
 <img src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" width="60" height="60" />
+<img src="https://cdn-avatars.huggingface.co/v1/production/uploads/1621946385351-60acee08af553873e6d96d0c.png" alt="spaCy" width="60" height="60" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" alt="Selenium" width="60" height="60"/>
 <img src="https://b.thumbs.redditmedia.com/e2dMSMwIGoSHH0kHGrQk83oDxo-qy43aKJxlHKDv-ZU.png" alt="Scrapy" width="60" height="60" />
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/opencv-icon.svg" alt="OpenCV" width="60" height="60"/>
