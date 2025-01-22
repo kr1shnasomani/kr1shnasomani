@@ -96,12 +96,12 @@
 
 # 📈 GitHub Stats:
 <h3>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kr1shnasomani&theme=dark&hide_border=false" height="170em" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=kr1shnasomani&theme=dark&show_icons=true&hide_border=false&count_private=true" height="170em" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kr1shnasomani&theme=onedark&hide_border=false" height="170em" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=kr1shnasomani&theme=onedark&show_icons=true&hide_border=false&count_private=true" height="170em" />
 <br><br>
 
 <p align="center" style="margin-top:30px;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kr1shnasomani&theme=github-compact" alt="Contribution Count" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kr1shnasomani&theme=one-dark" alt="Contribution Count" />
 </p>
 
 <img src="https://github.com/kr1shnasomani/kr1shnasomani/blob/9df64164ac6563533e624b41eef0ce72f02f8a16/GIF2.gif" height="200"/>
