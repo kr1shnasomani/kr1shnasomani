@@ -54,7 +54,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/PyPI-Logo-notext.svg/546px-PyPI-Logo-notext.svg.png" alt="GitHub" width="60" height="60" />
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/figma-icon.svg" alt="Figma" width="60" height="60"/>
 <img src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-512.png" alt="Git" width="60" height="60" />
-<img src="https://cdn.icon-icons.com/icons2/3685/PNG/512/github_logo_icon_229278.png" alt="GitHub" width="60" height="60" />
+<img src="https://static-00.iconduck.com/assets.00/github-icon-256x249-7imgj54m.png" alt="GitHub" width="60" height="60" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
