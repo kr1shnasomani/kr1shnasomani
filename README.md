@@ -60,8 +60,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 # 📂 Open Source Projects:
-| S. No. | Title | Machine Learning | Library |
-|--------|-------|------------------|---------|
+| # | Project | Category | Library |
+|---|---------|----------|---------|
 | 1. | [TraffiSense](https://github.com/kr1shnasomani/TraffiSense) | `Deep Learning` `Neural Network` `Computer Vision` | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv) ![PyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi) |
 | 2. | [Facetronix](https://github.com/kr1shnasomani/Facetronix) | `Deep Learning` `Neural Network` `Computer Vision` | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) ![pandas](https://img.shields.io/badge/pandas-black?style=flat-square&logo=pandas) ![scikit-learn](https://img.shields.io/badge/scikit--learn-black?style=flat-square&logo=scikit-learn) ![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=flat-square&logo=tensorflow) ![Keras](https://img.shields.io/badge/Keras-black?style=flat-square&logo=keras) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv) |
 | 3. | [BloodPrint](https://github.com/kr1shnasomani/BloodPrint) | `Deep Learning` `Neural Network` `Computer Vision` | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) ![scikit-learn](https://img.shields.io/badge/scikit--learn-black?style=flat-square&logo=scikit-learn) ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=flat-square&logo=tensorflow) ![Keras](https://img.shields.io/badge/Keras-black?style=flat-square&logo=keras) ![PyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi) |
