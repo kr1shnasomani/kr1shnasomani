@@ -60,6 +60,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 # 📂 Open Source Projects:
+
+<div align="center">
+
 | # | Project | Library |
 |---|---------|---------|
 | 1. | [TraffiSense](https://github.com/kr1shnasomani/TraffiSense) | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv) ![PyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi) |
@@ -72,7 +75,7 @@
 | 8. | [COVIDXRayNet](https://github.com/kr1shnasomani/COVIDXRayNet) | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) ![pandas](https://img.shields.io/badge/pandas-black?style=flat-square&logo=pandas) ![scikit-learn](https://img.shields.io/badge/scikit--learn-black?style=flat-square&logo=scikit-learn) ![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=flat-square&logo=tensorflow) ![Keras](https://img.shields.io/badge/Keras-black?style=flat-square&logo=keras) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv) ![PyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi) |
 | 9. | [WasteWise](https://github.com/kr1shnasomani/WasteWise) | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) ![pandas](https://img.shields.io/badge/pandas-black?style=flat-square&logo=pandas) ![scikit-learn](https://img.shields.io/badge/scikit--learn-black?style=flat-square&logo=scikit-learn) ![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=flat-square&logo=tensorflow) ![Keras](https://img.shields.io/badge/Keras-black?style=flat-square&logo=keras) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv) ![PyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi) |
 | 10. | [FireFinder](https://github.com/kr1shnasomani/FireFinder) | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) ![scikit-learn](https://img.shields.io/badge/scikit--learn-black?style=flat-square&logo=scikit-learn) ![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=flat-square&logo=tensorflow) ![Keras](https://img.shields.io/badge/Keras-black?style=flat-square&logo=keras) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv) |
-| 12. | [FilmFinder](https://github.com/kr1shnasomani/FilmFinder) | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) ![oandas](https://img.shields.io/badge/pandas-black?style=flat-square&logo=pandas) ![scikit-learn](https://img.shields.io/badge/scikit--learn-black?style=flat-square&logo=scikit-learn) |
+| 12. | [FilmFinder](https://github.com/kr1shnasomani/FilmFinder) | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) ![pandas](https://img.shields.io/badge/pandas-black?style=flat-square&logo=pandas) ![scikit-learn](https://img.shields.io/badge/scikit--learn-black?style=flat-square&logo=scikit-learn) |
 | 13. | [SentimentScope](https://github.com/kr1shnasomani/SentimentScope) | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) ![pandas](https://img.shields.io/badge/pandas-black?style=flat-square&logo=pandas) ![scikit-learn](https://img.shields.io/badge/scikit--learn-black?style=flat-square&logo=scikit-learn) ![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=flat-square&logo=tensorflow) ![Keras](https://img.shields.io/badge/Keras-black?style=flat-square&logo=keras) |
 | 14. | [DeepDetect](https://github.com/kr1shnasomani/DeepDetect) | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv) |
 | 15. | [CrowdMap](https://github.com/kr1shnasomani/CrowdMap) | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) ![SciPy](https://img.shields.io/badge/SciPy-black?style=flat-square&logo=scipy) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv) |
@@ -80,7 +83,9 @@
 | 17. | [WebScrub](https://github.com/kr1shnasomani/WebScrub) | ![scikit-learn](https://img.shields.io/badge/scikit--learn-black?style=flat-square&logo=scikit-learn) ![spaCy](https://img.shields.io/badge/spaCy-black?style=flat-square&logo=spacy) ![Selenium](https://img.shields.io/badge/Selenium-black?style=flat-square&logo=selenium) ![PyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi) |
 | 18. | [ColourPulse](https://github.com/kr1shnasomani/ColourPulse) | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv) |
 | 19. | [DeepDepth](https://github.com/kr1shnasomani/DeepDepth) | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv) |
-| 20. | [ChessBot]() | ![jQuery](https://img.shields.io/badge/jQuery-black?style=flat-square&logo=jquery) |
+| 20. | [ChessBot](https://github.com/kr1shnasomani/ChessBot) | ![jQuery](https://img.shields.io/badge/jQuery-black?style=flat-square&logo=jquery) |
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
