@@ -84,6 +84,7 @@
 | 18. | [ColourPulse](https://github.com/kr1shnasomani/ColourPulse) | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv) |
 | 19. | [DeepDepth](https://github.com/kr1shnasomani/DeepDepth) | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv) |
 | 20. | [ChessBot](https://github.com/kr1shnasomani/ChessBot) | ![jQuery](https://img.shields.io/badge/jQuery-black?style=flat-square&logo=jquery) |
+| 21. | [Mailgenaix](https://github.com/kr1shnasomani/Mailgenaix) | ![pandas](https://img.shields.io/badge/pandas-black?style=flat-square&logo=pandas) ![Selenium](https://img.shields.io/badge/Selenium-black?style=flat-square&logo=selenium) ![Streamlit](https://img.shields.io/badge/Streamlit-black?style=flat-square&logo=streamlit) ![PyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi) |
 
 </div>
 
