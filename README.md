@@ -92,7 +92,7 @@
 
 # 📈 GitHub Stats:
 <h3>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kr1shnasomani&theme=onedark&hide_border=false" height="120cm" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kr1shnasomani&theme=onedark&hide_border=false" height="170cm" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kr1shnasomani&theme=onedark&show_icons=true&hide_border=false&count_private=true" height="170em" />
 <br><br>
 
