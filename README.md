@@ -85,7 +85,7 @@
 | 18. | [ChessBot](https://github.com/kr1shnasomani/ChessBot) | ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript) | ![jQuery](https://img.shields.io/badge/jQuery-black?style=flat-square&logo=jquery) |
 | 19. | [Mailgenaix](https://github.com/kr1shnasomani/Mailgenaix) | ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-black?style=flat-square&logo=jupyter) ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) | ![Selenium](https://img.shields.io/badge/Selenium-black?style=flat-square&logo=selenium) ![Streamlit](https://img.shields.io/badge/Streamlit-black?style=flat-square&logo=streamlit)  |
 | 20. | [Sportiq](https://github.com/kr1shnasomani/Sportiq) | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv) |
- 
+| 21. | [Portfolio Website](https://github.com/kr1shnasomani/Portfolio-Website) | ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript) | ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react) ![Vite](https://img.shields.io/badge/Vite-black?style=flat-square&logo=vite) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-black?style=flat-square&logo=tailwindcss) |
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
