@@ -90,6 +90,17 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+# 🚀 Merged PRs:
+
+<div align="center">
+
+[![Dify](https://gitmystat.vercel.app/repo?theme=dark&username=langgenius&repo=dify)](https://github.com/langgenius/dify)  
+[![TensorFlow](https://gitmystat.vercel.app/repo?theme=dark&username=tensorflow&repo=tensorflow)](https://github.com/tensorflow/tensorflow)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 # 📈 GitHub Stats:
 <h3>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kr1shnasomani&theme=onedark&hide_border=false" height="170cm" />
