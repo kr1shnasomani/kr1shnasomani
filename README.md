@@ -95,7 +95,10 @@
 <div align="center">
 
 [![Dify](https://gitmystat.vercel.app/repo?theme=dark&username=langgenius&repo=dify)](https://github.com/langgenius/dify)  
+
 [![TensorFlow](https://gitmystat.vercel.app/repo?theme=dark&username=tensorflow&repo=tensorflow)](https://github.com/tensorflow/tensorflow)
+
+[![Haystack](https://gitmystat.vercel.app/repo?theme=dark&username=deepset-ai&repo=haystack)](https://github.com/deepset-ai/haystack)
 
 </div>
 
