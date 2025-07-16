@@ -92,10 +92,12 @@
 
 # 🚀 Merged PRs in Top Repos:
 
-<div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <a href="https://github.com/tensorflow/tensorflow"><img src="https://gitmystat.vercel.app/repo?theme=dark&username=tensorflow&repo=tensorflow" style="width: 420px;"></a><!--
   --><a href="https://github.com/langgenius/dify"><img src="https://gitmystat.vercel.app/repo?theme=dark&username=langgenius&repo=dify" style="width: 420px;"></a><!--
+  --><a href="https://github.com/langchain-ai/langchain"><img src="https://gitmystat.vercel.app/repo?theme=dark&username=langchain-ai&repo=langchain" style="width: 420px;"></a><!--
   --><a href="https://github.com/deepset-ai/haystack"><img src="https://gitmystat.vercel.app/repo?theme=dark&username=deepset-ai&repo=haystack" style="width: 420px;"></a><!--
+  --><a href="https://github.com/official-stockfish/Stockfish"><img src="https://gitmystat.vercel.app/repo?theme=dark&username=official-stockfish&repo=Stockfish" style="width: 420px;"></a><!--
   --><a href="https://github.com/google-gemini/gemini-cli"><img src="https://gitmystat.vercel.app/repo?theme=dark&username=google-gemini&repo=gemini-cli" style="width: 420px;"></a>
 </div>
 
