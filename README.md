@@ -92,13 +92,11 @@
 
 # 🚀 Merged PRs in Top Repos:
 
-<div align="center" style="margin-top:30px;">
-
-[![TensorFlow](https://gitmystat.vercel.app/repo?theme=dark&username=tensorflow&repo=tensorflow)](https://github.com/tensorflow/tensorflow)
-[![Dify](https://gitmystat.vercel.app/repo?theme=dark&username=langgenius&repo=dify)](https://github.com/langgenius/dify)  
-[![Haystack](https://gitmystat.vercel.app/repo?theme=dark&username=deepset-ai&repo=haystack)](https://github.com/deepset-ai/haystack)
-[![Gemini CLI](https://gitmystat.vercel.app/repo?theme=dark&username=google-gemini&repo=gemini-cli)](https://github.com/google-gemini/gemini-cli)  
-
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <a href="https://github.com/tensorflow/tensorflow"><img src="https://gitmystat.vercel.app/repo?theme=dark&username=tensorflow&repo=tensorflow" style="width: 460px;"></a><!--
+  --><a href="https://github.com/langgenius/dify"><img src="https://gitmystat.vercel.app/repo?theme=dark&username=langgenius&repo=dify" style="width: 460px;"></a><!--
+  --><a href="https://github.com/deepset-ai/haystack"><img src="https://gitmystat.vercel.app/repo?theme=dark&username=deepset-ai&repo=haystack" style="width: 460px;"></a><!--
+  --><a href="https://github.com/google-gemini/gemini-cli"><img src="https://gitmystat.vercel.app/repo?theme=dark&username=google-gemini&repo=gemini-cli" style="width: 460px;"></a>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
