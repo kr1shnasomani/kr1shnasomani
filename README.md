@@ -13,7 +13,7 @@
 <img align="right" src="https://github.com/kr1shnasomani/kr1shnasomani/blob/75ee72bac5b4ef8c4de1127e730fa867badac9f2/GIF3.gif" width="330" height="186"/>
 <div align="left">  
 
-- 🔭 I’m a 3rd year CSE student at SRM University, Kattankulathur
+- 🔭 I’m a CSE student at SRM University, Kattankulathur
   
 - 🤖 I'm intersted in AI/ML and Data Science
 
@@ -90,15 +90,14 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# 🚀 Merged PRs:
+# 🚀 Merged PRs in Top Repos:
 
 <div align="center">
 
-[![Dify](https://gitmystat.vercel.app/repo?theme=dark&username=langgenius&repo=dify)](https://github.com/langgenius/dify)  
-
 [![TensorFlow](https://gitmystat.vercel.app/repo?theme=dark&username=tensorflow&repo=tensorflow)](https://github.com/tensorflow/tensorflow)
-
+[![Dify](https://gitmystat.vercel.app/repo?theme=dark&username=langgenius&repo=dify)](https://github.com/langgenius/dify)  
 [![Haystack](https://gitmystat.vercel.app/repo?theme=dark&username=deepset-ai&repo=haystack)](https://github.com/deepset-ai/haystack)
+[![Gemini CLI](https://gitmystat.vercel.app/repo?theme=dark&username=google-gemini&repo=gemini-cli)](https://github.com/google-gemini/gemini-cli)  
 
 </div>
 
