@@ -1,5 +1,5 @@
 <p align="center"> 
-  <img align="center" src="https://github.com/kr1shnasomani/kr1shnasomani/blob/1ff733f732cabd208babf3fd59a5817b6b2c1172/GIF1.gif" width="722" height="406"/>
+  <img align="center" src="https://github.com/kr1shnasomani/kr1shnasomani/blob/1ff733f732cabd208babf3fd59a5817b6b2c1172/GIF1.gif" width="722cm" height="406cm" />
 </p>
 
   <h3 align="center">Visitor Counter </h3>
@@ -94,7 +94,7 @@
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <a href="https://github.com/tensorflow/tensorflow"><img src="https://gitmystat.vercel.app/repo?theme=dark&username=tensorflow&repo=tensorflow" style="width: 420px;"></a><!--
-  --><a href="https://github.com/official-stockfish/Stockfish"><img src="https://gitmystat.vercel.app/repo?theme=dark&username=official-stockfish&repo=Stockfish" style="width: 420px;"></a><!--
+  --><a href="https://github.com/n8n-io/n8n"><img src="https://gitmystat.vercel.app/repo?theme=dark&username=n8n-io&repo=n8n" style="width: 420px;"></a><!--
   --><a href="https://github.com/langgenius/dify"><img src="https://gitmystat.vercel.app/repo?theme=dark&username=langgenius&repo=dify" style="width: 420px;"></a><!--
   --><a href="https://github.com/langchain-ai/langchain"><img src="https://gitmystat.vercel.app/repo?theme=dark&username=langchain-ai&repo=langchain" style="width: 420px;"></a><!--
   --><a href="https://github.com/deepset-ai/haystack"><img src="https://gitmystat.vercel.app/repo?theme=dark&username=deepset-ai&repo=haystack" style="width: 420px;"></a><!--
@@ -113,4 +113,4 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kr1shnasomani&theme=one-dark" alt="Contribution Count" />
 </p>
 
-<img src="https://github.com/kr1shnasomani/kr1shnasomani/blob/9df64164ac6563533e624b41eef0ce72f02f8a16/GIF2.gif" height="200"/>
+<img src="https://github.com/kr1shnasomani/kr1shnasomani/blob/9df64164ac6563533e624b41eef0ce72f02f8a16/GIF2.gif" height="200cm" />
