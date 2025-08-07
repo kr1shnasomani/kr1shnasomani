@@ -7,7 +7,7 @@
   <img src="https://profile-counter.deno.dev/kr1shnasomani/count.svg"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 # 🙋‍♂️ About Me:
 <img align="right" src="https://github.com/kr1shnasomani/kr1shnasomani/blob/75ee72bac5b4ef8c4de1127e730fa867badac9f2/GIF3.gif" width="330" height="186"/>
@@ -25,7 +25,7 @@
 
 <div/> 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 # 🛠️ My Skill Set:
 </h3>
@@ -57,7 +57,7 @@
 <img src="https://static-00.iconduck.com/assets.00/github-icon-256x249-7imgj54m.png" alt="GitHub" width="60" height="60" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 # 📂 Open Source Projects:
 
@@ -87,7 +87,7 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 # 🚀 Merged PRs in Top Repos:
 
@@ -100,7 +100,7 @@
   --><a href="https://github.com/FlowiseAI/Flowise"><img src="https://gitmystat.vercel.app/repo?theme=dark&username=FlowiseAI&repo=Flowise" style="width: 420px;"></a>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 # 📈 GitHub Stats:
 <h3>
