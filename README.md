@@ -7,7 +7,7 @@
   <img src="https://profile-counter.deno.dev/kr1shnasomani/count.svg"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 # 🙋‍♂️ About Me:
 <img align="right" src="https://github.com/kr1shnasomani/kr1shnasomani/blob/75ee72bac5b4ef8c4de1127e730fa867badac9f2/GIF3.gif" width="330" height="186"/>
@@ -25,7 +25,7 @@
 
 <div/> 
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 # 🛠️ My Skill Set:
 </h3>
@@ -36,6 +36,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/768px-HTML5_Badge.svg.png?20110131171049" alt="HTML" width="60" height="60"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png" alt="CSS" width="60" height="60"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/figma-icon.svg" alt="Figma" width="60" height="60"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="60" height="60"/>
 <img src="https://github.com/devicons/devicon/raw/master/icons/numpy/numpy-original.svg" alt="NumPy" width="60" height="60" />
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/pandas-original.svg" alt="pandas" width="60" height="60"/>
@@ -45,19 +46,22 @@
 <img src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" width="60" height="60" />
 <img src="https://cdn-avatars.huggingface.co/v1/production/uploads/1621946385351-60acee08af553873e6d96d0c.png" alt="spaCy" width="60" height="60" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" alt="Selenium" width="60" height="60"/>
-<img src="https://b.thumbs.redditmedia.com/e2dMSMwIGoSHH0kHGrQk83oDxo-qy43aKJxlHKDv-ZU.png" alt="Scrapy" width="60" height="60" />
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/opencv-icon.svg" alt="OpenCV" width="60" height="60"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/logo-mark-lightbg.svg" alt="seaborn" width="60" height="60"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="60" height="60"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/Scikit_learn_logo_small.svg" alt="scikit-learn" width="60" height="60"/>
 <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Transformers" width="60" height="60" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/PyPI-Logo-notext.svg/546px-PyPI-Logo-notext.svg.png" alt="GitHub" width="60" height="60" />
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/figma-icon.svg" alt="Figma" width="60" height="60"/>
 <img src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-512.png" alt="Git" width="60" height="60" />
 <img src="https://static-00.iconduck.com/assets.00/github-icon-256x249-7imgj54m.png" alt="GitHub" width="60" height="60" />
+<img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL" width="60" height="60" />
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" alt="Postman" width="60" height="60" />
+<img src="https://pbs.twimg.com/profile_images/1536335358803251202/-gASF0c6_400x400.png" alt="n8n" width="60" height="60" />
+<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.60.0/files/dark/langchain.png" alt="LangChain" width="60" height="60" />
+<img src="https://pbs.twimg.com/profile_images/1923240799862759424/og79VP9c_400x400.jpg" alt="Dify" width="60" height="60" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 # 📂 Open Source Projects:
 
@@ -87,7 +91,7 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 # 🚀 Merged PRs in Top Repos:
 
@@ -100,7 +104,7 @@
   --><a href="https://github.com/FlowiseAI/Flowise"><img src="https://gitmystat.vercel.app/repo?theme=dark&username=FlowiseAI&repo=Flowise" style="width: 420px;"></a>
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 # 📈 GitHub Stats:
 <h3>
