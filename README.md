@@ -17,7 +17,7 @@
   
 - 🤖 I'm intersted in AI/ML and Data Science
 
-- 🌱 Portfolio website - **http://krishna-somani-portfolio.vercel.app/**
+- 🌱 Portfolio website - **https://krishna-somani-portfolio.vercel.app/**
   
 - 📫 How to reach me - **krishnasomani272005@gmail.com**
   
