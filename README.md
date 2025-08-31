@@ -51,9 +51,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/Scikit_learn_logo_small.svg" alt="scikit-learn" width="50" height="50"/>
 <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Transformers" width="50" height="50" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/PyPI-Logo-notext.svg/546px-PyPI-Logo-notext.svg.png" alt="GitHub" width="50" height="50" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/PyPI-Logo-notext.svg/546px-PyPI-Logo-notext.svg.png" alt="PyPI" width="50" height="50" />
 <img src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-512.png" alt="Git" width="50" height="50" />
-<img src="https://static-00.iconduck.com/assets.00/github-icon-256x249-7imgj54m.png" alt="GitHub" width="50" height="50" />
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-white-icon.png" alt="GitHub" width="50" height="50" />
 <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL" width="50" height="50" />
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" alt="Postman" width="50" height="50" />
 <img src="https://pbs.twimg.com/profile_images/1536335358803251202/-gASF0c6_400x400.png" alt="n8n" width="50" height="50" />
