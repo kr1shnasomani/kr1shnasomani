@@ -93,17 +93,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# 🚀 Merged PRs in Top Repos:
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <a href="https://github.com/tensorflow/tensorflow"><img src="https://gitmystat.vercel.app/repo?theme=dark&username=tensorflow&repo=tensorflow" style="width: 420px;"></a><!--
-  --><a href="https://github.com/n8n-io/n8n"><img src="https://gitmystat.vercel.app/repo?theme=dark&username=n8n-io&repo=n8n" style="width: 420px;"></a><!--
-  --><a href="https://github.com/langgenius/dify"><img src="https://gitmystat.vercel.app/repo?theme=dark&username=langgenius&repo=dify" style="width: 420px;"></a><!--
-  --><a href="https://github.com/langchain-ai/langchain"><img src="https://gitmystat.vercel.app/repo?theme=dark&username=langchain-ai&repo=langchain" style="width: 420px;"></a><!--
-  --><a href="https://github.com/deepset-ai/haystack"><img src="https://gitmystat.vercel.app/repo?theme=dark&username=deepset-ai&repo=haystack" style="width: 420px;"></a><!--
-  --><a href="https://github.com/FlowiseAI/Flowise"><img src="https://gitmystat.vercel.app/repo?theme=dark&username=FlowiseAI&repo=Flowise" style="width: 420px;"></a>
-</div>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 # 📈 GitHub Stats:
